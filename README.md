@@ -6,19 +6,11 @@
 ---
 
 ## 🔧 Skills
-- **Programming:** Python, C++, JavaScript  
+- **Programming:** Python, html, css, php  
 - **Tools:** Git, Figma, VS Code  
 
 ---
 
-## 📚 Interests
-- Exploring Computer Science concepts  
-- Web Client Development  
-- Podcasts (musicians, public figures, motivation & self-development)  
-- R&B & Pop music  
-- Spending time in libraries  
-
----
 
 ## 🚀 Current Project
 **Tutoring Platform Prototype**  
@@ -28,6 +20,5 @@ Role: Product & Tech Lead, UI/UX Designer (Figma wireframes)
 ---
 
 ## 🌐 Connect with Me
-- [GitHub](https://github.com/username)  
-- [LinkedIn](https://linkedin.com/in/username)  
-- [Instagram](https://instagram.com/username)  
+- [GitHub](https://github.com/revanleonellmorthen)  
+- [Instagram](https://instagram.com/rvvnn__)  
